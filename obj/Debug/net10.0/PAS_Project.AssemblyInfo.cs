@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("PAS_Project")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+5a0aa7efbc1ed0efb5780b76901e4788e09cbcdc")]
 [assembly: System.Reflection.AssemblyProductAttribute("PAS_Project")]
 [assembly: System.Reflection.AssemblyTitleAttribute("PAS_Project")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

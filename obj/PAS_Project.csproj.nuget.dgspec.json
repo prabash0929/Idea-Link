@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\My Projects\\PAS_Project\\PAS_Project.csproj": {}
+    "D:\\Github\\Idea-Link\\PAS_Project.csproj": {}
   },
   "projects": {
-    "D:\\My Projects\\PAS_Project\\PAS_Project.csproj": {
+    "D:\\Github\\Idea-Link\\PAS_Project.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\My Projects\\PAS_Project\\PAS_Project.csproj",
+        "projectUniqueName": "D:\\Github\\Idea-Link\\PAS_Project.csproj",
         "projectName": "PAS_Project",
-        "projectPath": "D:\\My Projects\\PAS_Project\\PAS_Project.csproj",
+        "projectPath": "D:\\Github\\Idea-Link\\PAS_Project.csproj",
         "packagesPath": "C:\\Users\\ASUS\\.nuget\\packages\\",
-        "outputPath": "D:\\My Projects\\PAS_Project\\obj\\",
+        "outputPath": "D:\\Github\\Idea-Link\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
