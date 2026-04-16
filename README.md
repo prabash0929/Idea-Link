@@ -1,4 +1,4 @@
-🎓 Idea Link – Project Approval System (PAS)
+# 🎓 Idea Link – Project Approval System (PAS)
 
 ## 📌 Project Description
 
