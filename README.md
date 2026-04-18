@@ -96,10 +96,3 @@ Example:
 * Functional Testing for user workflows
 
 ---
-
-## 👨‍💻 Author
-
-**Prabash Sandakalum**
-Undergraduate – NSBM Green University
-
----
